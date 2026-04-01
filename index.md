@@ -1,5 +1,7 @@
 [General](#who-am-i)
+
 [Me academically](#what-classes-am-i-taking-this-quarter)
+
 [My Hobbies](#what-do-i-like-to-do-outside-of-class)
 
 # Who am I?
