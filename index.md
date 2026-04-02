@@ -19,8 +19,8 @@ My name is **Jialin Wang**, and I also go by **Julian**. I am a second year comp
 
 # What do I plan to learn in CSE 110?
 
-- [] Prepare for industry
-- [] Learn more technical skills
+- [ ] Prepare for industry
+- [ ] Learn more technical skills
 - [X] Survive
 
 # What do I like to do outside of class?
